@@ -1,8 +1,10 @@
-[!]/home/eleanor/Documents/neonraypro/SDcard/DCIM/abutes-01.jpg
+![abutes-01](https://github.com/reeclerv/reeclerv/assets/101083725/94784c19-63d6-425d-a80c-59a934564060)
 <!--
 **reeclerv/reeclerv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
