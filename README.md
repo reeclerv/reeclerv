@@ -1,5 +1,4 @@
-### Hi there 👋
-
+/home/eleanor/Documents/neonraypro/SDcard/DCIM/abutes-01.jpg
 <!--
 **reeclerv/reeclerv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
